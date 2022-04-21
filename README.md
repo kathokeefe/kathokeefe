@@ -1,5 +1,5 @@
 - 😄 Hey, I'm Kathleen! I’m a Talent Sourcer @ Dapper Labs based in Burlington, ON 
-- 🇨🇦 Searching for Canadian-based software developers
+- 🇨🇦 Searching for Canadian & USA based software developers
 - 📫 Interested in exploring opportunities at Dapper Labs? You can reach me at kathleen.okeefe@dapperlabs.com
 
 <!---
